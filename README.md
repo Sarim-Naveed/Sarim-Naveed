@@ -1,5 +1,5 @@
 <!-- MOVING HACKER / MAN IMAGE -->
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 <!-- TOP BANNER IMAGE -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=230&section=header&text=Sarim%20Naveed&fontSize=70&animation=fadeIn&fontColor=ffffff" />
