@@ -13,7 +13,7 @@
 ---
 
 <!-- MOVING HACKER / MAN IMAGE -->
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" width="320" src="https://https://www.google.com/search?q=Hacker+style+image+for+github&sca_esv=e3b91cf287ef2e46&tbm=isch&sxsrf=AE3TifO4fo69afV4MyNYKz8Ns4zuBuO-zA:1767622507925&source=lnms&sa=X&ved=0ahUKEwio-7n9yvSRAxVuIbkGHTybG_YQ_AUIBigB&biw=360&bih=680#&biw=360&bih=680.gif" />
 ## 👋 About Me
 
 - 🌱 Currently learning **Cybersecurity & Programming Fundamentals**
